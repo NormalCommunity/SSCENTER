@@ -1,5 +1,4 @@
 
-
 ### Levantarse
 >player.inventory/has/x
 
@@ -71,6 +70,6 @@ Te observas en el espejo:
 Cierras el armario.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzMzNjMwNTYsLTEzMzAyMDQzMzQsLT
-YzNzcwNzY4Nl19
+eyJoaXN0b3J5IjpbMTAxMDA2ODQ2LC0xMjczMzYzMDU2LC0xMz
+MwMjA0MzM0LC02Mzc3MDc2ODZdfQ==
 -->
