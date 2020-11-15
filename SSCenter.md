@@ -66,6 +66,8 @@ Te observas en el espejo:
 
 >player/leave
 
-
-
+Cierras el armario.
  
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTYzNzcwNzY4Nl19
+-->
