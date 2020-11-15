@@ -62,12 +62,12 @@ Te observas en el espejo:
 ### Quitarse la ropa
 
 ### Cerrar el armario
->player.action/eq/$("Interactuar con armario")
+>player.action/eq/$("Abrir armario")
 
 >player/leave
 
 Cierras el armario.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzcwNzY4Nl19
+eyJoaXN0b3J5IjpbLTEzMzAyMDQzMzQsLTYzNzcwNzY4Nl19
 -->
