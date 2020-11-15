@@ -68,6 +68,4 @@ Te observas en el espejo:
 
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1MDY3MzEzXX0=
--->
+ 
