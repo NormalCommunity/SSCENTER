@@ -1,19 +1,18 @@
 
 
 ### Levantarse
-> player.inventory/has/x
+>player.inventory/has/x
 
-> player/leave
+>player/leave
 
 {img-eataeuena}
-
 Despiertas en una habitación extraña con un dolor fuerte de cabeza te encuentras algo confuso y no recuerdas como has llegado allí.
 
 Tras incorporarte puedes observar una habitación pequeña sin ventanas con una cama, armario, tv y un escritorio con <b>un documento</b>.
 
 ### Leer nota
-> rooms.objects/has/note-welcome
-> player.action/eq/1
+>rooms.objects/has/note-welcome
+>player.action/eq/1
 
 >rooms.objects/remove/note-welcome
 >rooms.name/change/Room_SS7
@@ -21,9 +20,7 @@ Tras incorporarte puedes observar una habitación pequeña sin ventanas con una 
 >player/leave
 
 {img-jxr3nqmk}
-
 Bienvenido al SSCenter sujeto SS7
-
 Tras la firma del contrato se suministro el nuevo medicamento experimental y ha sido trasladado a nuestras instalaciones centrales. 
 Como acordamos en la entrevista, el proceso puede llevar de 2 a 3 semanas en algunos casos puede que más. 
 
@@ -60,8 +57,11 @@ Te observas en el espejo:
 >player/idle
 
 ### Cambiarse de ropa
+>player.action/eq/$("Abrir armario")
+
 
 ### Quitarse la ropa
+>player.action/eq/$("Abrir armario")
 
 ### Cerrar el armario
 >player.action/eq/$("Abrir armario")
@@ -71,5 +71,6 @@ Te observas en el espejo:
 Cierras el armario.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzAyMDQzMzQsLTYzNzcwNzY4Nl19
+eyJoaXN0b3J5IjpbLTEyNzMzNjMwNTYsLTEzMzAyMDQzMzQsLT
+YzNzcwNzY4Nl19
 -->
